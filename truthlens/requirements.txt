@@ -7,9 +7,11 @@ pandas
 matplotlib
 seaborn
 wordcloud
-opencv-python
+opencv-python-headless
 requests
 beautifulsoup4
 vaderSentiment
 textblob
 onnxruntime
+plotly
+cloudscraper
